@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Space OP3C",
+  "description": "OP3C",
+  "frontMatter": {
+    "title": "Space OP3C"
+  }
+}
