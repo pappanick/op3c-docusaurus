@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OP3C Algorithm',
   tagline: 'brought  to you by Planetek',
-  //url: 'https://op3c-algo-docusaurus.netlify.app',
-  url: 'https://pappanick.github.io/OP3C/',
+  url: 'https://op3c-algo-docusaurus.netlify.app',
+  //url: 'https://pappanick.github.io/OP3C/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
