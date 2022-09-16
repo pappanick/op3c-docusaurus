@@ -26,22 +26,22 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/pappas/tfs/op3c-docusaurus/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/sidebars.js",
+          "editUrl": "https://github.com/pappanick/OP3C"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/pappanick/OP3C"
         },
         "theme": {
-          "customCss": "/home/pappas/tfs/op3c-docusaurus/src/css/custom.css"
+          "customCss": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "OP3C Algorithm Main Page",
+      "title": "OP3C",
       "logo": {
         "alt": "OP3C Algorithm logo",
         "src": "img/OP3C.png"
