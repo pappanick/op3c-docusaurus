@@ -35,3 +35,9 @@ img[alt="OP3C"] {
   margin-left: auto;
   margin-right: auto;
   }
+
+img[src*='#center'] {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  }

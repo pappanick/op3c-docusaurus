@@ -7,18 +7,10 @@ title: Space OP3C
 
 # <div align="center"> Space OP3C </div> 
 
- 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 JFPGA or SW solution for on-board hi-performance
 hyperspectral data compression and cloud classification
 
-&nbsp;
-&nbsp;
-&nbsp; 
+<br/><br/> 
 
 # On-board Processing 
 ***for Compression and Clouds Classification***
@@ -29,6 +21,7 @@ OP3C compression technique achieves high compression ratios, low data distortion
 <!-- ![Comparison](/img/Comparison.png#left "Comparison")-->
 ![Comparison](/img/Comparison.png#center "Comparison")
 
+<br/><br/> 
 
 # Capabilities
 
@@ -36,12 +29,14 @@ OP3C can consider the cloud coverage, both at pixel level and as overall coverag
 
 ![Compression Ratio Graph](/img/CompressionRatioGraph.png#center "Compression Ratio Graph]")
 
+<br/><br/> 
 
 # Deployments
 
 The performances of the OP3C compressor	have been demonstrated on two different sensors: AVIRIS (airborne) and Hyperion
 (spaceborne) on the standard dataset (Aaron	et al. 2009) adopted by NASA and CCSDS for hyper-spectral compressor benchmarking
-			
+
+<br/><br/> 			
 
 # Performance
 
@@ -49,6 +44,8 @@ The HUNPCA compression algorithm has been evaluated in terms of data loss accord
 
 ![Performance Table](/img/PerformanceTable.png#center "Performance Table")
 		
+<br/><br/> 
+<br/><br/> 
 
 # HUNPCA applicable sensors:
 
@@ -63,8 +60,11 @@ By applying the compression algorithm only to the land/sea pixels, the algorithm
 
 ![Compression Figure](/img/CompressionFigure.png#center "Compression Figure")
 
+<br/><br/> 
 
-# MAIN FEATURES:
+<br/><br/> 
+
+# <div align="center"> MAIN FEATURES: </div> 
 
 - Achieves high compression ratios without significant information losses (estimated data volume reduction from 12 to 22 times)
 - Provides both near-lossless or lossy compression modes upon configuration
