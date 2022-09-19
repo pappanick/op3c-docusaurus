@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/sidebars.js",
+          "sidebarPath": "/home/pappas/tfs/op3c-docusaurus/sidebars.js",
           "editUrl": "https://github.com/pappanick/OP3C"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/pappanick/OP3C"
         },
         "theme": {
-          "customCss": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/src/css/custom.css"
+          "customCss": "/home/pappas/tfs/op3c-docusaurus/src/css/custom.css"
         }
       }
     ]

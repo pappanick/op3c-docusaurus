@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/pappanick/OP3C/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/sidebars.js",
-          "contentPath": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/docs",
-          "contentPathLocalized": "/home/pappas/tfs/OP3Cs/op3c-docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/pappas/tfs/op3c-docusaurus/sidebars.js",
+          "contentPath": "/home/pappas/tfs/op3c-docusaurus/docs",
+          "contentPathLocalized": "/home/pappas/tfs/op3c-docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
