@@ -113,10 +113,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'LinkedIn',
                 href: 'https://gr.linkedin.com/company/planetek-italia/',
@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Planetek Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Planetek built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

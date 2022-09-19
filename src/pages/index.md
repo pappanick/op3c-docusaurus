@@ -1,14 +1,27 @@
 ---
 title: Space OP3C
 ---
+
 ![OP3C](/img/OP3C.png#center "OP3C")
 
-# Space OP3C
+
+# <div align="center"> Space OP3C </div> 
+
+ 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 JFPGA or SW solution for on-board hi-performance
 hyperspectral data compression and cloud classification
 
+&nbsp;
+&nbsp;
+&nbsp; 
 
-# On-board Processing for Compression and Clouds Classification
+# On-board Processing 
+***for Compression and Clouds Classification***
 
 OP3C compression technique achieves high compression ratios, low data distortion,still keeping a limited computation complexity suitable to the on-board constraints. OP3C compressed data can be further processed in their compressed form. This is a typical characteristic of the class of techniques known as compressed sensing. The OP3C compression methodology is named HUNPCA (Hybrid Un-mixing Principal Component Analysis) and is based on a spectral un-mixing procedure and PCA combined with a coding algorithm. The international patent was granted to Planetek Hellas (EP3347852)
 
@@ -42,8 +55,10 @@ The HUNPCA compression algorithm has been evaluated in terms of data loss accord
 1. Hyperspectral sensors
 2. Imaging spectrometers
 3. Sounding (infrared) imaging sensors
-4. Adapts to sensor's characteristics: the greater the spectral resolution, the higher the compression ratio.
-5. Detects clouds and adapts compression. By applying the compression algorithm only to the land/sea pixels, the algorithm achieves higher variance description with the same threshold. This feature allows the algorithm to achieve higher compression ratios with better information modeling.
+4. Adapts to sensor's characteristics: 
+the greater the spectral resolution, the higher the compression ratio.
+5. Detects clouds and adapts compression. 
+By applying the compression algorithm only to the land/sea pixels, the algorithm achieves higher variance description with the same threshold. This feature allows the algorithm to achieve higher compression ratios with better information modeling.
 6. Thermal hyperspectral imagers
 
 ![Compression Figure](/img/CompressionFigure.png#center "Compression Figure")

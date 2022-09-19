@@ -16,7 +16,7 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
-
+//Center Images
 img[src*='#right'] {
   float: right;
 }
@@ -32,6 +32,7 @@ img[src*='#center'] {
 img[alt="OP3C"] {
   width: 500px;
   }
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
@@ -42,4 +43,27 @@ img[alt="OP3C"] {
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+/* Whole document: */
+body{
+  font-family: Helvetica;
+  font-size: 14pt;
+}
+/* Headers */
+h1,{
+  font-size: 100pt;
+  float: center;
+
+}
+
+h2,h3,h4,h5,h6{
+  font-size: 24pt;
+  float: center;
+
+}
+Title{
+  --ifm-color-primary: #bac3e0;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }

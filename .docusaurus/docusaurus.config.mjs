@@ -65,17 +65,13 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "LinkedIn",
               "href": "https://gr.linkedin.com/company/planetek-italia/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Planetek Built with Docusaurus."
+      "copyright": "Copyright © 2022 Planetek built with Docusaurus."
     },
     "prism": {
       "theme": {
