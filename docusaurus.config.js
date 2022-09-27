@@ -119,7 +119,7 @@ const config = {
               // },
               {
                 label: 'LinkedIn',
-                href: 'https://gr.linkedin.com/company/planetek-italia/',
+                href: 'https://linkedin.com/company/planetek-hellas/',
               },
             ],
           },
