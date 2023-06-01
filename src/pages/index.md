@@ -4,7 +4,7 @@ title: Space OP3C
 
 ![OP3C](/img/OP3C.png#center "OP3C" alt="the logo")
 
-# <div align="center" title="Main Page Title"> Space OP3C </div>
+# <div align="center" title="Space OP3C Algorithm"> Space OP3C </div>
 
 JFPGA or SW solution for on-board hi-performance
 hyperspectral data compression and cloud classification
@@ -61,7 +61,7 @@ The HUNPCA compression algorithm has been evaluated in terms of data loss accord
 
 <br/><br/>
 
-# <div align="center" title="Feature List"> MAIN FEATURES: </div>
+# <div align="center" title="Features List of the Algorithm"> MAIN FEATURES: </div>
 
 - Achieves high compression ratios without significant information losses (estimated data volume reduction from 12 to 22 times)
 - Provides both near-lossless or lossy compression modes upon configuration
