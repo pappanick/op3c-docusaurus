@@ -25,7 +25,7 @@ const config = {
 	// to replace "en" with "zh-Hans".
 	i18n: {
 		defaultLocale: 'en',
-		locales: ['en'],
+		locales: ['en', 'gr'],
 	},
 
 	presets: [
@@ -70,7 +70,8 @@ const config = {
 			footer: {
 				style: 'dark',
 				logo: {
-					alt: 'Συγχρηματοδότηση Ευρωπαϊκής Ένωσης, Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης, ΕΠΑνΕΚ 2014-2020, Επιχειρησιακό Πρόγραμμα Ανταγωνιστικότητα, Επιχειρηματικότητα Καινοτομία, Γενική Γραμματεία Έρευνας και Καινοτομίας, ΕΣΠΑ 2014-2020, ανάπτυξη -εργασία- αλληλεγγύη',
+					alt: 'Financing from the European Union, European Regional Development Fund, EPANEK 2014-2020, Operational Program Competitiveness, Entrepreneurship Innovation, General Secretariat for Research and Innovation, ESPA 2014-2020, development - work - solidarity',
+					// alt: 'Συγχρηματοδότηση Ευρωπαϊκής Ένωσης, Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης, ΕΠΑνΕΚ 2014-2020, Επιχειρησιακό Πρόγραμμα Ανταγωνιστικότητα, Επιχειρηματικότητα Καινοτομία, Γενική Γραμματεία Έρευνας και Καινοτομίας, ΕΣΠΑ 2014-2020, ανάπτυξη -εργασία- αλληλεγγύη',
 					src: 'img/ΕΣΠΑ.png',
 					width: 1862,
 					height: 155,
