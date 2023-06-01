@@ -17,8 +17,6 @@ hyperspectral data compression and cloud classification
 
 OP3C compression technique achieves high compression ratios, low data distortion,still keeping a limited computation complexity suitable to the on-board constraints. OP3C compressed data can be further processed in their compressed form. This is a typical characteristic of the class of techniques known as compressed sensing. The OP3C compression methodology is named HUNPCA (Hybrid Un-mixing Principal Component Analysis) and is based on a spectral un-mixing procedure and PCA combined with a coding algorithm. The international patent was granted to Planetek Hellas (EP3347852)
 
-<!-- ![Comparison](/img/Comparison.png#right "Comparison") -->
-<!-- ![Comparison](/img/Comparison.png#left "Comparison")-->
 ![Comparison](/img/Comparison.png#center "Comparison")
 
 <br/><br/> 
