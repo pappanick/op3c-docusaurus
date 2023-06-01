@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/pappas/tfs/op3c-docusaurus/sidebars.js",
+          "sidebarPath": "/home/pappas/Developer/op3c-docusaurus/sidebars.js",
           "editUrl": "https://github.com/pappanick/OP3C"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/pappanick/OP3C"
         },
         "theme": {
-          "customCss": "/home/pappas/tfs/op3c-docusaurus/src/css/custom.css"
+          "customCss": "/home/pappas/Developer/op3c-docusaurus/src/css/custom.css"
         }
       }
     ]
@@ -66,12 +66,18 @@ export default {
           "items": [
             {
               "label": "LinkedIn",
-              "href": "https://gr.linkedin.com/company/planetek-italia/"
+              "href": "https://linkedin.com/company/planetek-hellas/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Planetek built with Docusaurus."
+      "title": "ESPA",
+      "logo": {
+        "alt": "Συγχρηματοδότηση Ευρωπαϊκής Ένωσης, Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης, ΕΠΑνΕΚ 2014-2020, Επιχειρησιακό Πρόγραμμα Ανταγωνιστικότητα, Επιχειρηματικότητα Καινοτομία, Γενική Γραμματεία Έρευνας και Καινοτομίας, ΕΣΠΑ 2014-2020, ανάπτυξη -εργασία- αλληλεγγύη",
+        "src": "img/ΕΣΠΑ.png"
+      },
+      // "Funding": "Με τη συγχρηματοδότηση της Ελλάδας και της Ευρωπαϊκής Ένωσης",
+      "copyright": "Copyright © 2023 Planetek built with Docusaurus."
     },
     "prism": {
       "theme": {
