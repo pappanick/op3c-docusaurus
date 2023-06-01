@@ -5,7 +5,7 @@ title: Space OP3C
 ![OP3C](/img/OP3C.png#center "OP3C")
 
 
-# <div align="center"> Space OP3C </div> 
+# <div align="center" title="Main Title"> Space OP3C </div> 
 
 JFPGA or SW solution for on-board hi-performance
 hyperspectral data compression and cloud classification
@@ -58,13 +58,13 @@ the greater the spectral resolution, the higher the compression ratio.
 By applying the compression algorithm only to the land/sea pixels, the algorithm achieves higher variance description with the same threshold. This feature allows the algorithm to achieve higher compression ratios with better information modeling.
 6. Thermal hyperspectral imagers
 
-![Compression Figure](/img/CompressionFigure.png#center "Compression Figure")
+![Compression Figure](/img/CompressionFigure.png#center "Compression Figure" alt="The figure shows the algorithm's capability to compress the image by removing either the sensor systematic noise or the random noise")
 
 <br/><br/> 
 
 <br/><br/> 
 
-# <div align="center"> MAIN FEATURES: </div> 
+# <div align="center" title="Feature List"> MAIN FEATURES: </div> 
 
 - Achieves high compression ratios without significant information losses (estimated data volume reduction from 12 to 22 times)
 - Provides both near-lossless or lossy compression modes upon configuration
