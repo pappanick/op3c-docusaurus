@@ -25,16 +25,10 @@ export default {
     [
       "classic",
       {
-        "docs": {
-          "sidebarPath": "/home/pappas/Developer/op3c-docusaurus/sidebars.js",
-          "editUrl": "https://github.com/pappanick/OP3C"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/pappanick/OP3C"
-        },
+        "docs": false,
+        "blog": false,
         "theme": {
-          "customCss": "/home/pappas/Developer/op3c-docusaurus/src/css/custom.css"
+          "customCss": "/Users/lostastronaut/Developer/op3c-docusaurus/src/css/custom.css"
         }
       }
     ]
@@ -46,23 +40,29 @@ export default {
         "alt": "OP3C Algorithm logo",
         "src": "img/OP3C.png"
       },
-      "items": [],
-      "hideOnScroll": false
+      "hideOnScroll": false,
+      "items": []
     },
     "footer": {
       "style": "dark",
+      "logo": {
+        "alt": "Συγχρηματοδότηση Ευρωπαϊκής Ένωσης, Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης, ΕΠΑνΕΚ 2014-2020, Επιχειρησιακό Πρόγραμμα Ανταγωνιστικότητα, Επιχειρηματικότητα Καινοτομία, Γενική Γραμματεία Έρευνας και Καινοτομίας, ΕΣΠΑ 2014-2020, ανάπτυξη -εργασία- αλληλεγγύη",
+        "src": "img/ΕΣΠΑ.png",
+        "width": 1862,
+        "height": 155
+      },
       "links": [
         {
           "title": "Contact us",
           "items": [
             {
-              "label": "Planetek",
+              "label": "Planetek Website",
               "href": "https://www.planetek.gr/"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "LinkedIn",
           "items": [
             {
               "label": "LinkedIn",
@@ -71,12 +71,6 @@ export default {
           ]
         }
       ],
-      "title": "ESPA",
-      "logo": {
-        "alt": "Συγχρηματοδότηση Ευρωπαϊκής Ένωσης, Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης, ΕΠΑνΕΚ 2014-2020, Επιχειρησιακό Πρόγραμμα Ανταγωνιστικότητα, Επιχειρηματικότητα Καινοτομία, Γενική Γραμματεία Έρευνας και Καινοτομίας, ΕΣΠΑ 2014-2020, ανάπτυξη -εργασία- αλληλεγγύη",
-        "src": "img/ΕΣΠΑ.png"
-      },
-      // "Funding": "Με τη συγχρηματοδότηση της Ελλάδας και της Ευρωπαϊκής Ένωσης",
       "copyright": "Copyright © 2023 Planetek built with Docusaurus."
     },
     "prism": {
